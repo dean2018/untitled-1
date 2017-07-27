@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1, Hot 3
+http://s1-p3.peer5.net/edge/70-1.stream/chunklist.m3u8
+#EXTINF:-1, Hot Action
+http://s1-p3.peer5.net/edge/71-1.stream/chunklist.m3u8
+#EXTINF:-1, Hot Fun
+http://s1-p3.peer5.net/edge/72-1.stream/chunklist.m3u8
+#EXTINF:-1, Hot Gold
+http://s1-p3.peer5.net/edge/73-1.stream/chunklist.m3u8
+#EXTINF:-1, Hot Drama
+http://s1-p3.peer5.net/edge/74-1.stream/chunklist.m3u8
+#EXTINF:-1, Kids Channel
+http://s1-p3.peer5.net/edge/75-1.stream/chunklist.m3u8
+#EXTINF:-1, Hot Films
+http://s1-p3.peer5.net/edge/76-1.stream/chunklist.m3u8
+#EXTINF:-1, Hot Israeli Entertainment
+http://s1-p3.peer5.net/edge/77-1.stream/chunklist.m3u8
+#EXTINF:-1, Hot 8
+http://s1-p3.peer5.net/edge/78-1.stream/chunklist.m3u8
+#EXTINF:-1, Hot Zone
+http://s1-p3.peer5.net/edge/80-1.stream/chunklist.m3u8
+#EXTINF:-1, Hot HBO
+http://s1-p3.peer5.net/edge/81-1.stream/chunklist.m3u8
+#EXTINF:-1, Hot Comedy Central
+http://s1-p3.peer5.net/edge/82-1.stream/chunklist.m3u8
+#EXTINF:-1, Hot Prime
+http://s1-p3.peer5.net/edge/83-1.stream/chunklist.m3u8
