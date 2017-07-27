@@ -1,0 +1,49 @@
+﻿#EXTM3U
+#EXTINF:-1, National Geographic
+http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8
+#EXTINF:-1, National Geographic Wild
+http://s1-p3.peer5.net/edge/14-1.stream/chunklist.m3u8
+#EXTINF:-1, History
+http://s1-p3.peer5.net/edge/15-1.stream/chunklist.m3u8
+#EXTINF:-1, Travel Channel
+http://s1-p3.peer5.net/edge/16-1.stream/chunklist.m3u8
+#EXTINF:-1, Health Channel
+http://s1-p3.peer5.net/edge/17-1.stream/chunklist.m3u8
+#EXTINF:-1, Home Plus
+http://s1-p3.peer5.net/edge/18-1.stream/chunklist.m3u8
+#EXTINF:-1, Good Life Channel
+http://s1-p3.peer5.net/edge/19-1.stream/chunklist.m3u8
+#EXTINF:-1, Food Channel
+http://s1-p3.peer5.net/edge/20-1.stream/chunklist.m3u8
+#EXTINF:-1, E!
+http://s1-p3.peer5.net/edge/22-1.stream/chunklist.m3u8
+#EXTINF:-1, Viva
+http://s1-p3.peer5.net/edge/23-1.stream/chunklist.m3u8
+#EXTINF:-1, Viva Plus
+http://s1-p3.peer5.net/edge/24-1.stream/chunklist.m3u8
+#EXTINF:-1, 25 Middle Estern
+http://s1-p3.peer5.net/edge/25-1.stream/chunklist.m3u8
+#EXTINF:-1, Nick
+http://s1-p3.peer5.net/edge/36-1.stream/chunklist.m3u8
+#EXTINF:-1, Nick Junior
+http://s1-p3.peer5.net/edge/37-1.stream/chunklist.m3u8
+#EXTINF:-1, Hop!
+http://s1-p3.peer5.net/edge/38-1.stream/chunklist.m3u8
+#EXTINF:-1, Hop! Israeli Childhood
+http://s1-p3.peer5.net/edge/39-1.stream/chunklist.m3u8
+#EXTINF:-1, Zoom
+http://s1-p3.peer5.net/edge/40-1.stream/chunklist.m3u8
+#EXTINF:-1, Disney
+http://s1-p3.peer5.net/edge/41-1.stream/chunklist.m3u8
+#EXTINF:-1, Disney Junior
+http://s1-p3.peer5.net/edge/42-1.stream/chunklist.m3u8
+#EXTINF:-1, Baby
+http://s1-p3.peer5.net/edge/43-1.stream/chunklist.m3u8
+#EXTINF:-1, Discovery Channel
+http://s1-p3.peer5.net/edge/44-1.stream/chunklist.m3u8
+#EXTINF:-1, Lifetime
+http://s1-p3.peer5.net/edge/57-1.stream/chunklist.m3u8
+#EXTINF:-1, CBS Drama
+http://s1-p3.peer5.net/edge/58-1.stream/chunklist.m3u8
+#EXTINF:-1, Luli
+http://s1-p3.peer5.net/edge/79-1.stream/chunklist.m3u8
