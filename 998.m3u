@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Reshet TV" tvg-name="Reshet TV" tvg-logo="https://he.wikipedia.org/wiki/%D7%A8%D7%A9%D7%AA_(%D7%96%D7%9B%D7%99%D7%99%D7%A0%D7%99%D7%AA_%D7%A9%D7%99%D7%93%D7%95%D7%A8)#/media/File:Reshet2016.svg",Reshet HD
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
+#EXTINF:-1,Reshet SD
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+#EXTINF:-1,KESHET SD
+http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_946.m3u8
+#EXTINF:-1,KESHET VOD HD
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
+#EXTINF:-1,Channel 2 SD
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
+#EXTINF:-1,Channel 2 SD
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8
+#EXTINF:-1,Channel 2 SD
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8
+#EXTINF:-1,Channel 2 SD
+http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
+#EXTINF:-1,News 2 HD
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1,News 2 SD
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile3.m3u8
+#EXTINF:-1,Channel 10 HD
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1,Channel 10 HD
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1,Channel 10 SD
+http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8
+#EXTINF:-1,Channel 10 SD
+http://nana10live-lh.akamaihd.net/i/HD_0@123101/index_2400_av-p.m3u8
+#EXTINF:-1,Kan 11 (IPBC) HD
+http://82.80.192.13/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1,Kan 11 (IPBC) HD
+http://62.90.90.52/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1,Kan 11 (IPBC) HD
+http://62.90.90.37/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1,Kan 11 (IPBC) SD
+http://62.90.90.34/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w1733629701_b1928000.m3u8
+#EXTINF:-1,Kan 11 (IPBC) SD
+http://192.99.18.85:1935/sporttv/channel11/playlist.m3u8
+#EXTINF:-1,Channel 20 HD
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1,Channel 20 HD
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
+#EXTINF:-1,Shopping Channel
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
+#EXTINF:-1,Music 24 SD
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+#EXTINF:-1,Music 24 SD
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
+#EXTINF:-1,Music 24 SD
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-b.m3u8
+#EXTINF:-1,Makan 33 (IPBC) HD
+http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1,Makan 33 (IPBC) HD
+http://62.90.90.52/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1,Kabbalah La'am SD
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8#EXTINF:0,MEIR TV (16:9, SD)
+#EXTINF:-1,Kabbalah La'am SD
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Meir TV SD
+http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Meir TV SD
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Hidabrut HD
+http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+#EXTINF:-1,Hidabrut SD
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1,Knesset Channel SD
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1,Ynet HD
+http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:-1,Walla News
+http://62.90.90.56/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png", BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244", SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1, Bloomberg USA
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1, Bloomberg Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
