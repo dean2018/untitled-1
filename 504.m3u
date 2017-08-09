@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/c/c5/Reshet2016.svg/175px-Reshet2016.svg.png",Reshet HD
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/c/c5/Reshet2016.svg/175px-Reshet2016.svg.png",Reshet SD
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/c/cf/Keshet_ch12.png/170px-Keshet_ch12.png",KESHET VOD 1 SD
+http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_946.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/c/cf/Keshet_ch12.png/170px-Keshet_ch12.png",KESHET VOD 2 HD
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/f9/Channel2.svg/60px-Channel2.svg.png",Channel 2 SD
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/f9/Channel2.svg/60px-Channel2.svg.png",Channel 2 SD
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/f9/Channel2.svg/60px-Channel2.svg.png",Channel 2 SD
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/f9/Channel2.svg/60px-Channel2.svg.png",Channel 2 SD
+http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%D7%9C%D7%95%D7%92%D7%95_%D7%97%D7%91%D7%A8%D7%AA_%D7%94%D7%97%D7%93%D7%A9%D7%95%D7%AA.png/260px-%D7%9C%D7%95%D7%92%D7%95_%D7%97%D7%91%D7%A8%D7%AA_%D7%94%D7%97%D7%93%D7%A9%D7%95%D7%AA.png",Israeli News Company HD
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%D7%9C%D7%95%D7%92%D7%95_%D7%97%D7%91%D7%A8%D7%AA_%D7%94%D7%97%D7%93%D7%A9%D7%95%D7%AA.png/260px-%D7%9C%D7%95%D7%92%D7%95_%D7%97%D7%91%D7%A8%D7%AA_%D7%94%D7%97%D7%93%D7%A9%D7%95%D7%AA.png",Israeli News Company SD
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/2e/Ch10svg.svg/202px-Ch10svg.svg.png",Channel 10 HD
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/2e/Ch10svg.svg/202px-Ch10svg.svg.png",Channel 10 HD
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/2e/Ch10svg.svg/202px-Ch10svg.svg.png",Channel 10 SD
+http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/2e/Ch10svg.svg/202px-Ch10svg.svg.png",Channel 10 SD
+http://nana10live-lh.akamaihd.net/i/HD_0@123101/index_2400_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://www.kan.org.il/images/logo_kan.png",Kan 11 (IPBC) HD
+http://82.80.192.13/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.kan.org.il/images/logo_kan.png",Kan 11 (IPBC) HD
+http://62.90.90.52/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.kan.org.il/images/logo_kan.png",Kan 11 (IPBC) HD
+http://62.90.90.37/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.kan.org.il/images/logo_kan.png",Kan 11 (IPBC) SD
+http://62.90.90.34/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w1733629701_b1928000.m3u8
+#EXTINF:-1 tvg-logo="http://www.kan.org.il/images/logo_kan.png",Kan 11 (IPBC) SD
+http://192.99.18.85:1935/sporttv/channel11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/220px-Arutz_20.svg.png",Channel 20 HD
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/220px-Arutz_20.svg.png",Channel 20 HD
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.21.tv/images/logo.png",Shopping Channel
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/bf/Arutz_24_Logo.svg/200px-Arutz_24_Logo.svg.png",Music 24 SD
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/bf/Arutz_24_Logo.svg/200px-Arutz_24_Logo.svg.png",Music 24 SD
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/b/bf/Arutz_24_Logo.svg/200px-Arutz_24_Logo.svg.png",Music 24 SD
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://www.makan.org.il/images/logo_makan.png",Makan 33 (IPBC) HD
+http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.makan.org.il/images/logo_makan.png",Makan 33 (IPBC) HD
+http://62.90.90.52/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.kab.co.il/images/hebmain/logo1.png",Kabbalah La'am SD
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8#EXTINF:0,MEIR TV (16:9, SD)
+#EXTINF:-1 tvg-logo="http://www.kab.co.il/images/hebmain/logo1.png",Kabbalah La'am SD
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmeir.com/Content/img/logo.png",Meir TV SD
+http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmeir.com/Content/img/logo.png",Meir TV SD
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/7a/Hidabroot_logo.png/200px-Hidabroot_logo.png",Hidabrut HD
+http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/7a/Hidabroot_logo.png/200px-Hidabroot_logo.png",Hidabrut SD
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/40/Logo_knesset_channel.png/200px-Logo_knesset_channel.png",Knesset Channel SD
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/fa/YnetLogo.svg/200px-YnetLogo.svg.png",Ynet HD
+http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/6/69/%D7%95%D7%95%D7%90%D7%9C%D7%94_NEWS.png/230px-%D7%95%D7%95%D7%90%D7%9C%D7%94_NEWS.png",Walla News
+http://62.90.90.56/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
