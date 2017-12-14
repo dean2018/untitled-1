@@ -21,8 +21,7 @@ http://192.99.18.85:1935/live/channel11/chunklist.m3u8
 http://82.80.192.11/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w2063685957_b1928000.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg",12 Keshet
 http://192.99.18.85:1935/live/channel22/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg",12 Keshet TEST
-#EXTINF:-1,tvg-name="YES_2_HD" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_2_HD.png"  group-title="Israel",yes2 HD
+#EXTINF:-1,tvg-name="YES_2_HD" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_2_HD.png",yes2 HD
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7173.ts
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg",12 Keshet
 http://l1.isramedia.net:1935/chan/smil:12zet.smil/chunklist_w1933101059_b500000_tkdG9rZW5zdGFydHRpbWU9MTUxMjgzNzY2NSZ0b2tlbmVuZHRpbWU9MTUxMjg0MTI2NSZ0b2tlbmhhc2g9dDVqN191bVlnVzlJektaY2FLT19qanI4RTVLanV6NTE2V1F6Q2RtcWF1Zz0=.m3u8
